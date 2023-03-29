@@ -1,0 +1,47 @@
+# Compiled class files
+*.class
+
+# Build artifacts
+target/
+
+# Dependency directory
+lib/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# IDE files
+*.iml
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven
+.Maven/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.properties
+
+# Checkstyle
+.checkstyle
